@@ -1,4 +1,4 @@
-# neuralnetwork
+# neural network
 Keras Neural Network
 To use the pretrained model, import the H5 Python library. Before using the pretrained model, your data needs to be scaled. The model's input needs to be in a Python
 data frame and in the shape (nx5), where n is the nth number of rows and 5 is the number of columns. Make sure that input data is in the correct order, i.e the columns need
